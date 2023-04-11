@@ -14,4 +14,8 @@
 +Creamos una carpeta en el proyecto para lanzar las notebook (en mi caso *Visualizaciones*)
 +Ahora lanzaremos ***jupyter lab***
 +Aparecerá la pestaña de jupyterlab y en eslector de archivos crearemos una carpeta para nuestro primer gráfico\
-+En mi caso se llamará Seccion2/MiPrimerGráfico/ y aquí haremos click derecho y crearemos un notebook\
++En mi caso se llamará Curso_Visualizacion_Datos/MiPrimerGráfico y aquí haremos click derecho y crearemos un notebook\
++Esta será el entorno que usaremos
+### Visualización de datos
++Todos los gráficos creados pueden ser vistos desde github, simplemente navegando entre carpetas y abriendo los archivos\
++.ipynb , esta es una de las ventajas del jupyter notebook, su fácil visualización.
