@@ -21,3 +21,7 @@
 +los archivos **.ipynb** , esta es una de las ventajas del jupyter notebook, su fácil visualización.
 ### Tratamiento Datos con Pandas:
 +Todo el código generado se encontrará en la carpeta Tratamiento_Datos_Pandas
+### Manipulación de DataFrames con Pandas:
++Es una pequeña expansión del curso de tratamiento, todos los archivos se encontrarán en /Manipulacion_Dataframes
+### NumPy
++Los archivos estarán en el directorio /NumPy
