@@ -37,3 +37,6 @@ conda install -c anaconda seaborn
 #### Caso de estudio con Pandas
 + El directorio será **Talleres/Caso_estudio_pandas**
 + Realizaremos una práctica de posibles tareas (sencillas) que nos mandarían hacer como Data Sciencists
+#### EDA: Exploratory Data Analysis con Python
++ El directorio será **Talleres/Exploratory_data_analysis**
++ Aprenderemos a clasificar bien los datos y estudiar su relevancia. Así mismo haremos un pequeño entrenamiento de una maquina
