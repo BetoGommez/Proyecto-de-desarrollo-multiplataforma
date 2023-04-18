@@ -3,7 +3,9 @@
 ## -Data Science en Python:
 ### Preparación del entorno:
 + Instalar Anaconda
-+ Con el Anaconda Prompt nos posicionamos en el directoria deseado y lanzaremos ***conda create --name datascience_openwebinars python=3.7*** 
++ Con el Anaconda Prompt nos posicionamos en el directoria deseado y lanzaremos 
+´´´conda create --name datascience_openwebinars python=3.7
+´´´
 + Lanzaremos un ***conda activate datascience_openwebinars***
 + Pasaremos a instalar las librerias
 ``` conda install -c conda-forge jupyterlab
@@ -24,5 +26,5 @@ conda install -c anaconda seaborn
 + Todo el código generado se encontrará en la carpeta Cursos/Tratamiento_Datos_Pandas
 ### Manipulación de DataFrames con Pandas:
 + Es una pequeña expansión del curso de tratamiento, todos los archivos se encontrarán en Cursos/Manipulacion_Dataframes
-### NumPy
+### NumPy:
 + Los archivos estarán en el directorio Cursos/NumPy
