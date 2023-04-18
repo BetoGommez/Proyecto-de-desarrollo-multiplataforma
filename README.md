@@ -18,14 +18,22 @@ conda install -c anaconda seaborn
 + Ahora para iniciar el entorno: \
 ```jupyter lab```
 + Aparecerá la pestaña de jupyterlab y en eslector de archivos crearemos una carpeta para nuestro primer gráfico
-+ En mi caso se llamará Curso_Visualizacion_Datos/MiPrimerGráfico y aquí haremos click derecho y crearemos un notebook
++ En mi caso se llamará **Cursos/Curso_Visualizacion_Datos/MiPrimerGráfico** y aquí haremos click derecho y crearemos un notebook
 + Esta será el entorno que usaremos
-### Visualización de datos:
+### Cursos
+#### Visualización de datos:
 + Todos los gráficos creados pueden ser vistos desde github, simplemente navegando entre carpetas y abriendo \
  los archivos **.ipynb** , esta es una de las ventajas del jupyter notebook, su fácil visualización.
-### Tratamiento Datos con Pandas:
-+ Todo el código generado se encontrará en la carpeta Cursos/Tratamiento_Datos_Pandas
-### Manipulación de DataFrames con Pandas:
-+ Es una pequeña expansión del curso de tratamiento, todos los archivos se encontrarán en Cursos/Manipulacion_Dataframes
-### NumPy:
-+ Los archivos estarán en el directorio Cursos/NumPy
+#### Tratamiento Datos con Pandas:
++ Todo el código generado se encontrará en la carpeta **Cursos/Tratamiento_Datos_Pandas**
+#### Manipulación de DataFrames con Pandas:
++ Es una pequeña expansión del curso de tratamiento, todos los archivos se encontrarán en **Cursos/Manipulacion_Dataframes**
+#### NumPy:
++ Los archivos estarán en el directorio **Cursos/NumPy**
+### Talleres
+#### Lectura y escritura de diferentes fuentes con Pandas
++ Todo lo realizado se encontrará en **Talleres/Lectura_Escritura**
++ Aquí aprenderemos a escribir y leer archivos como (csv ,pdf, api(online), json, html y pickle)
+#### Caso de estudio con Pandas
++ El directorio será **Talleres/Caso_estudio_pandas**
++ Realizaremos una práctica de posibles tareas (sencillas) que nos mandarían hacer como Data Sciencists
