@@ -5,7 +5,7 @@
 + Instalar Anaconda
 + Con el Anaconda Prompt nos posicionamos en el directoria deseado y lanzaremos: \
 ```conda create --name datascience_openwebinars python=3.7```
-+ Para la activación del proyecto: \ 
++ Para la activación del proyecto: \
 ```conda activate datascience_openwebinars```
 + Pasaremos a instalar las librerias
 ``` conda install -c conda-forge jupyterlab
@@ -15,7 +15,7 @@ conda install -c conda-forge matplotlib
 conda install -c anaconda seaborn 
 ```
 + Creamos una carpeta en el proyecto para lanzar las notebook (en mi caso *Visualizaciones*)
-+ Ahora para iniciar el entorno: \ 
++ Ahora para iniciar el entorno: \
 ```jupyter lab```
 + Aparecerá la pestaña de jupyterlab y en eslector de archivos crearemos una carpeta para nuestro primer gráfico
 + En mi caso se llamará Curso_Visualizacion_Datos/MiPrimerGráfico y aquí haremos click derecho y crearemos un notebook
