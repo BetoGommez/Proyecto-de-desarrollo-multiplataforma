@@ -4,8 +4,8 @@
 ### Preparación del entorno:
 + Instalar Anaconda
 + Con el Anaconda Prompt nos posicionamos en el directoria deseado y lanzaremos 
-´´´conda create --name datascience_openwebinars python=3.7
-´´´
+```conda create --name datascience_openwebinars python=3.7
+```
 + Lanzaremos un ***conda activate datascience_openwebinars***
 + Pasaremos a instalar las librerias
 ``` conda install -c conda-forge jupyterlab
