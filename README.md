@@ -48,5 +48,5 @@ nos permite crear una buena subdivisión de los apuntes así \ como su sustenci�
 la carpeta **ethicalhacking**
 + Se puede acceder a todo en el link: https://endurable-wolfsbane-290.notion.site/Hacking-tico-3dd40cfbc5254913b6076343963dabb9
 + En esta carrera no cursaré los apartados de:
-- Análisis forense básico en sistemas (Dur: Linux 29 min y 24 seg)
-* Análisis forense avanzado en sistemas Linux (Dur: 36 miny 33 seg)
+1. Análisis forense básico en sistemas (Dur: Linux 29 min y 24 seg)
+2. Análisis forense avanzado en sistemas Linux (Dur: 36 miny 33 seg)
